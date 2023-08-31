@@ -1,4 +1,4 @@
-# Predictor-Stake
+# Stake Predictor 
 
 # Showcase 
 
